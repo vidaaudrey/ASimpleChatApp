@@ -1,0 +1,10 @@
+{
+	"dbURL": "mongodb://chatcat:chatcat@ds063892.mongolab.com:63892/chatcat",
+	"sessionSecret": "catcanfly",
+	"fb":{
+		"appID": "1510023269236297",
+		"appSecret":"33142817b40d7e016946b24ac0c237a4",
+		"callbackURL":"http://localhost:3000/auth/facebook/callback"
+	},
+	"host": "http://localhost:3000"
+}
